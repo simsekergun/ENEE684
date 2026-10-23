@@ -1,1 +1,1 @@
-figure go here
+figures go here
